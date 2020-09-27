@@ -1,5 +1,6 @@
 {
   "1.16":   {  "version": "1.16-fabric0.13.1-1.6.4", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/3044855" },
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.6.4", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/3044855" },
-  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.6.4", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/3044856" }
+  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.6.5", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/3067062" },
+  "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.6.5", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiercrafting/files/3067062" }
 }  
