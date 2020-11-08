@@ -1,5 +1,7 @@
 {
   "1.16":   {  "version": "1.16-fabric0.13.1-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/2992249" },
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/2992249" },
-  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/3029691" }
+  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/3029691" },
+  "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/3029691" },
+  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/clear-despawn-fabric/files/3105654" }
 }  

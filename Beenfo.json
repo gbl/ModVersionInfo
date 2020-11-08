@@ -2,5 +2,6 @@
   "1.16":   {  "version": "1.16-fabric0.13.1-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3057552" },
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3057552" },
   "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3041598" },
-  "1.16.3": {  "version": "1.16.3-fabric0.20.2-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3056121" }
+  "1.16.3": {  "version": "1.16.3-fabric0.20.2-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3056121" },
+  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/beenfo/files/3105655" }
 }  
