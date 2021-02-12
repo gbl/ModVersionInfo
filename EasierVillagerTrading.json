@@ -3,5 +3,6 @@
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.5.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3034360" },
   "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.5.3", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3058902" },
   "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.5.3", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3058902" },
-  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.5.3", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3105641" }
+  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.5.3", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3105641" },
+  "1.16.5": {  "version": "1.16.4-fabric0.30.0-1.5.4", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easiervillagertrading/files/3201364" }
 }  
