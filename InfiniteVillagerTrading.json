@@ -1,5 +1,8 @@
 {
   "1.16":   {  "version": "1.16-fabric0.13.1-1.0.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3000225" },
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.0.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3000225" },
-  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3046410" }
+  "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3046410" },
+  "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3046410" },
+  "1.16.4": {  "version": "1.16.2-fabric0.17.2-1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3046410" },
+  "1.16.5": {  "version": "1.16.5-fabric0.30.0-1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/infinitevillagertrading/files/3193609" }
 }  

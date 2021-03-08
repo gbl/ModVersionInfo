@@ -7,5 +7,6 @@
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.4.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/2992206" },
   "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.6.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/3072279" },
   "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.6.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/3072279" },
-  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.6.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/3105644" }
+  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.6.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/3105644" },
+  "1.16.5": {  "version": "1.16.5-fabric0.30.1-1.6.3", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/easierchests/files/3193589" }
 }  

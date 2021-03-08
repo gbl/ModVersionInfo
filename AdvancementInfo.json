@@ -3,5 +3,6 @@
   "1.16.1": {  "version": "1.16-fabric0.13.1-1.0", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3039462" },
   "1.16.2": {  "version": "1.16.2-fabric0.17.2-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3046843" },
   "1.16.3": {  "version": "1.16.2-fabric0.17.2-1.1.1", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3046843" },
-  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3105662" }
+  "1.16.4": {  "version": "1.16.4-fabric0.25.1-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3105662" },
+  "1.16.5": {  "version": "1.16.5-fabric0.30.0-1.2", "downloadUrl": "https://www.curseforge.com/minecraft/mc-mods/advancementinfo/files/3193541" }
 }  
